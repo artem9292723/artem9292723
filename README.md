@@ -1,4 +1,5 @@
 ## Hi there 👋
+I student Regional State Budgetary Professional Educational Institution Khabarovsk Industrial and Economics College
 
 <!--
 **artem9292723/artem9292723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
